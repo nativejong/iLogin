@@ -1,0 +1,6 @@
+framework module iLogin {
+  umbrella header "iLogin.h"
+
+  export *
+  module * { export * }
+}
