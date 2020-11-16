@@ -30,10 +30,6 @@
     <img src="/images/login.png" alt="My cool logo" width="220" height="120"/>
   </a>
 
-    <video width="400" controls autoplay>
-        <source src="/images/music.mov" type="video/mp4">
-    </video>
-
 <video controls="controls" width="800" height="600" 
        name="Video Name" src="/images/music.mov"></video>
 
