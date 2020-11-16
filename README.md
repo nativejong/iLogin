@@ -34,6 +34,9 @@
         <source src="/images/music.mov" type="video/mp4">
     </video>
 
+<video controls="controls" width="800" height="600" 
+       name="Video Name" src="/images/music.mov"></video>
+
   <h3 align="center">iLogin</h3>
 
   <p align="center">
