@@ -30,11 +30,6 @@
     <img src="/images/login.png" alt="My cool logo" width="220" height="120"/>
   </a>
 
-  <a href="https://github.com/github_username/repo_name">
-    <img src="/images/music.gif" alt="My cool logo" width="220" height="120"/>
-  </a>
-
-
   <h3 align="center">iLogin</h3>
 
   <p align="center">
