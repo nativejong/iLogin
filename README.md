@@ -30,8 +30,10 @@
     <img src="/images/login.png" alt="My cool logo" width="220" height="120"/>
   </a>
 
-<video controls="controls" width="800" height="600" 
-       name="Video Name" src="/images/music.mov"></video>
+  <a href="https://github.com/github_username/repo_name">
+    <img src="/images/music.gif" alt="My cool logo" width="220" height="120"/>
+  </a>
+
 
   <h3 align="center">iLogin</h3>
 
