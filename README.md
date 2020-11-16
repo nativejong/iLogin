@@ -30,6 +30,10 @@
     <img src="/images/login.png" alt="My cool logo" width="220" height="120"/>
   </a>
 
+    <video width="400" controls autoplay>
+        <source src="/images/music.mov" type="video/mp4">
+    </video>
+
   <h3 align="center">iLogin</h3>
 
   <p align="center">
