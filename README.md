@@ -30,12 +30,6 @@
     <img src="/images/login.png" alt="My cool logo" width="220" height="120"/>
   </a>
 
-    <iframe width="560" height="315"
-src="https://www.youtube.com/embed/MUQfKFzIOeU" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
-
   <h3 align="center">iLogin</h3>
 
   <p align="center">
