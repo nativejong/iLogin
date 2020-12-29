@@ -47,7 +47,7 @@
 - (void)viewWillLayoutSubviews{
     CGFloat w = self.view.frame.size.width;
     CGFloat h = self.view.frame.size.height;
-    self.login.frame = CGRectMake( w * 0.1, h * 0.1,  w * 0.8,  h * 0.3 );
+    self.login.frame = CGRectMake( w * 0.1, h * 0.2,  w * 0.8,  h * 0.3 );
 }
 
 

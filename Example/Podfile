@@ -5,10 +5,10 @@ target 'Example' do
   platform :ios, '13.0'
   use_frameworks!
   
-    pod 'iLogin', :git => 'https://github.com/jalajoninc/BPod.git'
-    pod 'iHome', :git => 'https://github.com/jalajoninc/BPod.git'
-    pod 'iRating', :git => 'https://github.com/jalajoninc/BPod.git'
-    pod 'iEasy', :git => 'https://github.com/jalajoninc/BPod.git'
+    #pod 'iEasy', :git => 'https://github.com/nativejong/iEasy.git'
+    #pod 'iEasy', :path => '/Users/jblaine/wow/iEasy/Universe/iEasy.podspec'
+
+    pod 'iLogin', :git => 'https://github.com/nativejong/iLogin.git'
 
     post_install do |installer|
         installer.pods_project.targets.each do |target|

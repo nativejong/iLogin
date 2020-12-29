@@ -7,37 +7,43 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9E27C3EA259B3C6D0091CA38 /* DemoB.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E27C3E9259B3C6D0091CA38 /* DemoB.swift */; };
+		9E27C3EE259B3D3E0091CA38 /* DemoA.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E27C3ED259B3D3E0091CA38 /* DemoA.swift */; };
+		9E27C3F4259B3D8A0091CA38 /* DemoAViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E27C3F3259B3D8A0091CA38 /* DemoAViewController.swift */; };
+		9E27C3F8259B3DDE0091CA38 /* DemoBViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E27C3F7259B3DDE0091CA38 /* DemoBViewController.swift */; };
+		9E321D53259B5C6300E87DFC /* LogInVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 9E321D4F259B5C6200E87DFC /* LogInVC.m */; };
+		9E321D54259B5C6300E87DFC /* LogInVC+Model.m in Sources */ = {isa = PBXBuildFile; fileRef = 9E321D50259B5C6200E87DFC /* LogInVC+Model.m */; };
 		9E3991B92520201A00C1CC95 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E3991B82520201A00C1CC95 /* AppDelegate.swift */; };
 		9E3991BB2520201A00C1CC95 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E3991BA2520201A00C1CC95 /* SceneDelegate.swift */; };
-		9E3991BD2520201A00C1CC95 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E3991BC2520201A00C1CC95 /* ViewController.swift */; };
 		9E3991C02520201A00C1CC95 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9E3991BE2520201A00C1CC95 /* Main.storyboard */; };
-		9E3991C22520201C00C1CC95 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9E3991C12520201C00C1CC95 /* Assets.xcassets */; };
 		9E3991C52520201C00C1CC95 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9E3991C32520201C00C1CC95 /* LaunchScreen.storyboard */; };
 		9E3991D12520206600C1CC95 /* Podfile in Resources */ = {isa = PBXBuildFile; fileRef = 9E3991D02520206500C1CC95 /* Podfile */; };
-		9ECB08DE2529ED2400CDDDD3 /* LogInVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 9ECB08DD2529ED2400CDDDD3 /* LogInVC.m */; };
-		9ECB08E12529ED3E00CDDDD3 /* LogInVC+Model.m in Sources */ = {isa = PBXBuildFile; fileRef = 9ECB08E02529ED3E00CDDDD3 /* LogInVC+Model.m */; };
-		9ECB08E32529F08300CDDDD3 /* SignInVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ECB08E22529F08300CDDDD3 /* SignInVC.swift */; };
+		9E92E55D256D516B0073BFA6 /* Tabs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E92E55C256D516B0073BFA6 /* Tabs.swift */; };
+		9EFEA56C256C118000C7A870 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9EFEA56B256C118000C7A870 /* Assets.xcassets */; };
 		E91B1589B52B78B62D574F01 /* Pods_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 402A965C6894FDF96F528BDB /* Pods_Example.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		402A965C6894FDF96F528BDB /* Pods_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		73259463F27A93431B0BBA67 /* Pods-Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Example.release.xcconfig"; path = "Target Support Files/Pods-Example/Pods-Example.release.xcconfig"; sourceTree = "<group>"; };
+		9E27C3E9259B3C6D0091CA38 /* DemoB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoB.swift; sourceTree = "<group>"; };
+		9E27C3ED259B3D3E0091CA38 /* DemoA.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoA.swift; sourceTree = "<group>"; };
+		9E27C3F3259B3D8A0091CA38 /* DemoAViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoAViewController.swift; sourceTree = "<group>"; };
+		9E27C3F7259B3DDE0091CA38 /* DemoBViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoBViewController.swift; sourceTree = "<group>"; };
+		9E321D4F259B5C6200E87DFC /* LogInVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LogInVC.m; sourceTree = "<group>"; };
+		9E321D50259B5C6200E87DFC /* LogInVC+Model.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "LogInVC+Model.m"; sourceTree = "<group>"; };
+		9E321D51259B5C6200E87DFC /* LogInVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LogInVC.h; sourceTree = "<group>"; };
+		9E321D52259B5C6200E87DFC /* LogInVC+Model.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "LogInVC+Model.h"; sourceTree = "<group>"; };
 		9E3991B52520201A00C1CC95 /* Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9E3991B82520201A00C1CC95 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9E3991BA2520201A00C1CC95 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		9E3991BC2520201A00C1CC95 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		9E3991BF2520201A00C1CC95 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		9E3991C12520201C00C1CC95 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9E3991C42520201C00C1CC95 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9E3991C62520201C00C1CC95 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9E3991CC2520204100C1CC95 /* Example-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Example-Bridging-Header.h"; sourceTree = "<group>"; };
-		9E3991D02520206500C1CC95 /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = SOURCE_ROOT; };
-		9ECB08DC2529ED2400CDDDD3 /* LogInVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LogInVC.h; sourceTree = "<group>"; };
-		9ECB08DD2529ED2400CDDDD3 /* LogInVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LogInVC.m; sourceTree = "<group>"; };
-		9ECB08DF2529ED3E00CDDDD3 /* LogInVC+Model.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "LogInVC+Model.h"; sourceTree = "<group>"; };
-		9ECB08E02529ED3E00CDDDD3 /* LogInVC+Model.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "LogInVC+Model.m"; sourceTree = "<group>"; };
-		9ECB08E22529F08300CDDDD3 /* SignInVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInVC.swift; sourceTree = "<group>"; };
+		9E3991D02520206500C1CC95 /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9E92E55C256D516B0073BFA6 /* Tabs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tabs.swift; sourceTree = "<group>"; };
+		9EFEA56B256C118000C7A870 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DC0B2F0510DFCBC5A45914FB /* Pods-Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Example.debug.xcconfig"; path = "Target Support Files/Pods-Example/Pods-Example.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -82,20 +88,23 @@
 		9E3991B72520201A00C1CC95 /* Example */ = {
 			isa = PBXGroup;
 			children = (
-				9E3991D02520206500C1CC95 /* Podfile */,
 				9E3991B82520201A00C1CC95 /* AppDelegate.swift */,
-				9E3991BA2520201A00C1CC95 /* SceneDelegate.swift */,
-				9E3991BC2520201A00C1CC95 /* ViewController.swift */,
-				9E3991BE2520201A00C1CC95 /* Main.storyboard */,
-				9E3991C12520201C00C1CC95 /* Assets.xcassets */,
-				9E3991C32520201C00C1CC95 /* LaunchScreen.storyboard */,
-				9E3991C62520201C00C1CC95 /* Info.plist */,
+				9EFEA56B256C118000C7A870 /* Assets.xcassets */,
 				9E3991CC2520204100C1CC95 /* Example-Bridging-Header.h */,
-				9ECB08DC2529ED2400CDDDD3 /* LogInVC.h */,
-				9ECB08DD2529ED2400CDDDD3 /* LogInVC.m */,
-				9ECB08DF2529ED3E00CDDDD3 /* LogInVC+Model.h */,
-				9ECB08E02529ED3E00CDDDD3 /* LogInVC+Model.m */,
-				9ECB08E22529F08300CDDDD3 /* SignInVC.swift */,
+				9E3991C62520201C00C1CC95 /* Info.plist */,
+				9E3991C32520201C00C1CC95 /* LaunchScreen.storyboard */,
+				9E3991BE2520201A00C1CC95 /* Main.storyboard */,
+				9E3991D02520206500C1CC95 /* Podfile */,
+				9E3991BA2520201A00C1CC95 /* SceneDelegate.swift */,
+				9E92E55C256D516B0073BFA6 /* Tabs.swift */,
+				9E27C3ED259B3D3E0091CA38 /* DemoA.swift */,
+				9E27C3F3259B3D8A0091CA38 /* DemoAViewController.swift */,
+				9E27C3E9259B3C6D0091CA38 /* DemoB.swift */,
+				9E27C3F7259B3DDE0091CA38 /* DemoBViewController.swift */,
+				9E321D51259B5C6200E87DFC /* LogInVC.h */,
+				9E321D4F259B5C6200E87DFC /* LogInVC.m */,
+				9E321D52259B5C6200E87DFC /* LogInVC+Model.h */,
+				9E321D50259B5C6200E87DFC /* LogInVC+Model.m */,
 			);
 			path = Example;
 			sourceTree = "<group>";
@@ -171,9 +180,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				9E3991C52520201C00C1CC95 /* LaunchScreen.storyboard in Resources */,
-				9E3991C22520201C00C1CC95 /* Assets.xcassets in Resources */,
 				9E3991D12520206600C1CC95 /* Podfile in Resources */,
 				9E3991C02520201A00C1CC95 /* Main.storyboard in Resources */,
+				9EFEA56C256C118000C7A870 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -226,12 +235,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9E3991BD2520201A00C1CC95 /* ViewController.swift in Sources */,
-				9ECB08E12529ED3E00CDDDD3 /* LogInVC+Model.m in Sources */,
-				9ECB08E32529F08300CDDDD3 /* SignInVC.swift in Sources */,
-				9ECB08DE2529ED2400CDDDD3 /* LogInVC.m in Sources */,
 				9E3991B92520201A00C1CC95 /* AppDelegate.swift in Sources */,
 				9E3991BB2520201A00C1CC95 /* SceneDelegate.swift in Sources */,
+				9E321D54259B5C6300E87DFC /* LogInVC+Model.m in Sources */,
+				9E27C3EE259B3D3E0091CA38 /* DemoA.swift in Sources */,
+				9E92E55D256D516B0073BFA6 /* Tabs.swift in Sources */,
+				9E27C3F8259B3DDE0091CA38 /* DemoBViewController.swift in Sources */,
+				9E27C3F4259B3D8A0091CA38 /* DemoAViewController.swift in Sources */,
+				9E321D53259B5C6300E87DFC /* LogInVC.m in Sources */,
+				9E27C3EA259B3C6D0091CA38 /* DemoB.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -307,7 +319,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.7;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -361,7 +373,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.7;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -379,6 +391,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 39LDUJS32M;
+				EXCLUDED_ARCHS = "";
 				INFOPLIST_FILE = Example/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -386,6 +399,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = jblaine.Example;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
 				SWIFT_OBJC_BRIDGING_HEADER = "Example/Example-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
@@ -406,8 +420,10 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				ONLY_ACTIVE_ARCH = NO;
 				PRODUCT_BUNDLE_IDENTIFIER = jblaine.Example;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
 				SWIFT_OBJC_BRIDGING_HEADER = "Example/Example-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
